@@ -1,7 +1,7 @@
 
 function golfScore(par, strokes) {
   // Only change code below this line
-  if (par = 1){
+  if (golfScore == 4, 1){
       return "Hole-in-one!";
   } else if (golfScore == 4, 2){
       return "Eagle";
@@ -14,4 +14,4 @@ function golfScore(par, strokes) {
 }
 
 // Change these values to test
-golfScore(1, 1);
+golfScore(4, 2);
