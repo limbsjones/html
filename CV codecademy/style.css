@@ -6,7 +6,7 @@ div {
     z-index: 1;
     height: 80px;
     width: 97.5%;
-    background: red;
+    background: #7EB19F;
     position: fixed;
 }
 .left {
@@ -15,7 +15,7 @@ div {
 	margin-top: 90px;
 	width: 10%;
 	height: 400px;
-	background-color: #B9D7D9;
+	background-color: #0C8282;
 	margin-bottom: 10px;
   
 }
@@ -25,7 +25,7 @@ div {
 	margin-top: 90px;
 	width: 88%;
 	height: 400px;
-	background-color: #F4EBC3;
+	background-color: #EF9037;
 	margin-bottom: 10px;
 }
 #footer {
@@ -55,4 +55,5 @@ div {
 h1  {
     text-decoration: bold;
     
+
 }
