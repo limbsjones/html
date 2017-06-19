@@ -31,3 +31,21 @@ div {
 #footer {
     clear: both;
 }
+
+#name {
+    float: left;
+    font-family: Helvetica;
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+#mail {
+    float: right;
+    font-family: Helvetica;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    
+}
