@@ -37,7 +37,7 @@ div {
 
 #name {
     float: left;
-    font-family: Helvetica;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     color: white;
     margin-left: 10px;
@@ -45,8 +45,8 @@ div {
 
 #mail {
     float: right;
-    font-family: Helvetica; 
-    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
     text-decoration: none;
     color: white;
     margin-right: 10px;
@@ -54,4 +54,14 @@ div {
 }
 h1  {
     text-decoration: bold;
+    margin-left: 10px;
+    color: #fff;
     }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 20px;
+    color: #fff
+
+}
