@@ -11,9 +11,9 @@ div {
 }
 .image {
 margin: auto;
-    width: 50px;
-    height: 50px;
-    padding: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 20%;
 }
 .left {
 	position: relative;
@@ -72,3 +72,4 @@ p {
     font-size: 12px;
     margin-left: 20px;
     color: #564c4c;
+}
