@@ -16,7 +16,7 @@ div {
 #lga {
     height: 231px;
     margin-top: 45px;
-    text-align: center;
+    text-align: -webkit-center;
 }
 
 #mngb {
