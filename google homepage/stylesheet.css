@@ -1,0 +1,14 @@
+div {
+    display: block;
+}
+#lga {
+    height: 231px;
+    margin-top: 45px;
+    text-align: -webkit-center;
+}
+
+#mngb {
+    position: absolute;
+    top: 15px;
+    width: 100%;
+}
