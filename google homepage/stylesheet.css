@@ -11,12 +11,16 @@ body {
 
 
 
-img  {
+#img  {
     margin: auto;
     display: block;
     position: absolute;
     width: 40%;
 
+}
+
+.row {
+    height: 200px
 }
 
 .center {
@@ -26,6 +30,13 @@ img  {
     padding: 10px;
 }
 
+.jumbotron .container  {
+    padding-top: 200px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: white;
+}
 #lga {
     height: 231px;
     margin-top: 45px;
