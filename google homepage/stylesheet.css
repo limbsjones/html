@@ -1,25 +1,26 @@
-element.style {
-    padding-top: 112px;
-}
 
 body {
     background-color: white;
-    font-family: Arial, sans-serif;
-    margin: 20 0 0 0;
+    font-family: arial, sans-serif;
+    margin: 20px 0 0 0;
     height: 100%;
 }
 
-li {
+header {
     display: inline-block;
     padding-left: 10px;
     padding-top: 10px;  
+    display:inline-block;
+    padding: 0 15px 0 6px;
 }
 header nav {
-    display: block;
-    height: 30px;
-    martin: 10px 0;
-    padding: 10px 10px 10px 10px;
+    display: block; 
+    height: 30px; 
+    margin: 10px 0;
+    padding: 10px 10px 10px 10px; 
+    float: right;
 }
+
 header ul {
     float: right;
     list-style-type: none;
@@ -28,8 +29,10 @@ header ul {
     margin: 5px 0 0 0;
     padding: 0;
 }
-header li {
-    display: inline-block;
-    float: left;
-    padding: 0 15px 0 6px;
+
+.center { 
+	padding-top: 210px;
+	text-align: center;
+ 	margin: auto;
+    width: 40%;
 }
