@@ -1,5 +1,6 @@
 // Place your settings in this file to overwrite default and user settings.
 {
+<<<<<<< HEAD
     "editor.fontSize": 12
     "name": "Attach to url with files served from ./out",
     "type": "chrome",
@@ -9,4 +10,8 @@
     "webRoot": "${workspaceRoot}"
     
     
+=======
+    "editor.fontSize": 12,
+    "editor.multiCursorModifier": "alt",
+>>>>>>> c9b8f6aaf7f88560b5f61201e078b4c96cf95d60
 }
