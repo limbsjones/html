@@ -6,6 +6,11 @@ body {
     height: 100%;
 }
 
+li {
+    float: right;
+    
+
+}
 header {
     display: inline-block;
     padding-left: 10px;
