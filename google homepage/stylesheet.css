@@ -27,12 +27,12 @@ nav {
 
     
 header div {
-  float: right;
-  list-style-type: none;
-  font-size: 14px;
-  text-align: right;
-  margin: 5px 0 0 0;
-  padding: 0;
+    float: right;
+    list-style-type: none;
+    font-size: 14px;
+    text-align: right;
+    margin: 5px 0 0 0;
+    padding: 0;
 }
 .center {
     margin: auto;
@@ -41,13 +41,13 @@ header div {
     padding: 10px;
     text-align: center;
 }
-
+    
 .button {
-  margin: 20px 2px 0 2px;
-  height: 32px;
-  padding: 0 16px 0 16px;
-  font-weight: bolder;
-  border: 1px solid #f2f2f2;
-  background-color: #f2f2f2;
-  color: #757575;
+    margin: 20px 2px 0 2px;
+    height: 32px;
+    padding: 0 16px 0 16px;
+    font-weight: bolder;
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    color: #757575;
 }
