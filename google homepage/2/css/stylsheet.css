@@ -1,4 +1,5 @@
 body {
+	font-size: small;
   
 }
 
@@ -27,18 +28,12 @@ body {
 }
 
 
-.textright {
-  float: right;
-  text-align: right;
-  
-}
-
 .center {
     margin: auto;
     width: 50%;
     padding: 10px;
 }
-div {
+header div {
   width: 100%;
-
+	float: right;
 }
