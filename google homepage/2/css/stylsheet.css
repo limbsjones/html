@@ -1,16 +1,34 @@
+html {
+	font-size: small;
+}
 
+div {
+	display: block;
+	text-align: -webkit-left;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	text-decoration: none;
+}
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FFFFFF;
+	background-color: #FFFFFF;
+	
 }
 
 
 li  {
-		float: right;
+	float: right;
+	text-decoration-color: black;
+	text-decoration: none;
+	list-style-type: none;
+	font-size: 15px;
+
 }
 
 li a {
@@ -18,6 +36,7 @@ li a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	
 
 }
 
@@ -28,6 +47,20 @@ li a {
 #signin {
 	float: right;
 	text-align: center;
-	
+	margin: 15px;
 	text-decoration: none;
+}
+
+.logo {
+	margin: 150px auto auto;
+	clear: right;
+	display: block;
+}
+
+.search {
+	position: relative;
+	bottom: 40px;
+	width: 503px;
+	height: 
+
 }
