@@ -1,39 +1,33 @@
-body {
-	font-size: small;
-  
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
 }
 
-#header {
-  position: fixed;
-	top: 0;
-	width: 100%;
-	height: 50px;
+
+li  {
+		float: right;
 }
 
-#header ul {
-	float: right;
-}
-
-#header li {
-	color: rgb(117,117,117);
+li a {
 	display: block;
-	box-sizing: border-box;
-	font-size: 0.8em;
 	text-align: center;
-	float: left;
-	width: 65px;
-	height: 30px;
-	padding-top: 10px;
-	margin: 10px 10px;
+	padding: 14px 16px;
+	text-decoration: none;
+
 }
 
-
-.center {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+.reset {
+	-webkit-appearance: none;
 }
-header div {
-  width: 100%;
+
+#signin {
 	float: right;
+	text-align: center;
+	
+	text-decoration: none;
 }
