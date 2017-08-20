@@ -2,10 +2,6 @@ html {
 	font-size: small;
 }
 
-div {
-	display: block;
-	text-align: -webkit-left;
-}
 
 body {
 	font-family: Arial, sans-serif;
@@ -59,9 +55,10 @@ li a {
 
 .search {
 	position: relative;
-	bottom: 40px;
-	width: 503px;
+	bottom: 40px;;
 	width: 300px;
+	margin: auto;
+	padding-top: 50px;
 }
 
 
