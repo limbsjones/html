@@ -1,5 +1,4 @@
 // Place your settings in this file to overwrite default and user settings.
+workbench
 {
-    "editor.fontSize": 12,
-    "editor.multiCursorModifier": "alt",
-}
+
