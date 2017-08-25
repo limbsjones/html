@@ -1,3 +1,49 @@
+<<<<<<< HEAD
+body {
+  
+}
+
+#header {
+  position: fixed;
+	top: 0;
+	width: 100%;
+	height: 50px;
+}
+
+#header ul {
+	float: right;
+}
+
+#header li {
+	color: rgb(117,117,117);
+	display: block;
+	box-sizing: border-box;
+	font-size: 0.8em;
+	text-align: center;
+	float: left;
+	width: 65px;
+	height: 30px;
+	padding-top: 10px;
+	margin: 10px 10px;
+}
+
+
+.textright {
+  float: right;
+  text-align: right;
+  
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+div {
+  width: 100%;
+
+}
+=======
 html {
 	font-size: small;
 }
@@ -62,3 +108,4 @@ li a {
 }
 
 
+>>>>>>> 003be19cb0471e76826d6c275d7cef906f59aea7
