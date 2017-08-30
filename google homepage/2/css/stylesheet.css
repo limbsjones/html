@@ -1,7 +1,4 @@
-div {
-	width: 100%;
-  
-  }
+
   
   html {
 	  font-size: small;
@@ -11,6 +8,7 @@ div {
   body {
 	  font-family: Arial, sans-serif;
 	  text-decoration: none;
+	  text-align: -webkit-center;
   }
   
   ul {
@@ -29,19 +27,16 @@ div {
 	  text-decoration-color: none;
 	  text-decoration: none;
 	  list-style-type: none;
-	  font-size: 15px;
-  
-  }
+	  color: black;
+	  font: small arial,sans-serif;
+	}
   
   li a {
 	  display: block;
 	  text-align: center;
-	  padding: 14px 16px;
+	  padding: 16px 9px;
 	  text-decoration: none;
-	  
-	  
-  
-  }
+	}
   
   .reset {
 	  -webkit-appearance: none;
@@ -51,7 +46,6 @@ div {
 	  float: right;
 	  text-align: center;
 	  margin: 15px;
-	  text-decoration: none;
 	}
   
   .logo {
@@ -62,11 +56,10 @@ div {
   
   .search {
 	  -webkit-appearance: textfield;
-	  position: relative;
-	  bottom: 40px;;
+	  position: absolute;
 	  width: 300px;
-	  margin: auto;
-	  padding-top: 50px;
+	  margin: auto auto auto auto
+	  
   }
 
   input {
@@ -75,4 +68,22 @@ div {
     -webkit-rtl-ordering: logical;
     user-select: text;
 	cursor: auto;
+	user-select: text;
+	cursor: auto;
+	font: 18px arial,sans-serif;
+	height: 39px;
+	display: block;
+	max-width: 672px;
+	width: 618px;
+	left: 0px;
+	position: relative;
+  }
+
+  form {
+	  display: block;
+	  height: 39px;
+	  margin-top: 0px;
+	  font: 18px arial,sans-serif;
+	  
+
   }
