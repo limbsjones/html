@@ -20,8 +20,6 @@
 		margin: 0;
 		overflow: hidden;
 		background-color: #FFFFFF;
-
-
 	}
 
 
@@ -64,11 +62,9 @@
 
 	.search {
 		-webkit-appearance: textfield;
-		width: 300px;
 		margin-right: auto;
 		margin-left: auto;
-		padding-top: 50px;
-		padding-left: 25%
+		padding-left: auto;
 	}
 
 	input {
@@ -76,19 +72,19 @@
 		background-color: white;
 		-webkit-rtl-ordering: logical;
 		user-select: text;
-	cursor: auto;
-	user-select: text;
-	cursor: auto;
-	font: 18px arial,sans-serif;
-	height: 39px;
-	display: block;
-	max-width: 672px;
-	width: 618px;
-	left: 0px;
-	position: relative;
-	box-shadow: 1px 1px 5px grey;
-	border: 1px;
-}
+		cursor: auto;
+		user-select: text;
+		cursor: auto;
+		font: 18px arial,sans-serif;
+		height: 39px;
+		display: block;
+		max-width: 672px;
+		width: 618px;
+		left: 0px;
+		position: relative;
+		box-shadow: 1px 1px 5px grey;
+		border: 1px;
+	}
 
 	
 
