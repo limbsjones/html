@@ -40,10 +40,18 @@
 		padding: 16px 9px;
 		text-decoration: none;
 	}
-
-	form div {
-		margin: auto;
+	
+	button {
+		display: inline;
+		margin: 15px 3px;
+		color: #757575;
+		background-color: #f2f2f2;
+		padding: 10px 15px;
+		font-weight: bold;
+		font-size: small;
 	}
+
+
 
 	.reset {
 		-webkit-appearance: none;
@@ -100,8 +108,9 @@
 	.logo-subtext {
 		color: #4285f4;
 		font: 16px/16px roboto-regular, arial, sans-serif;
-		left: 215px;
+		left: 115px;
+		bottom: 60px;
 		position: relative;
-		top: 76px;
+		
 		white-space: nowrap;
 	}
