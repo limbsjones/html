@@ -39,16 +39,18 @@
 		text-align: center;
 		padding: 16px 9px;
 		text-decoration: none;
+		color: #666666;
 	}
 	
-	button {
-		display: inline;
+	.button {
+		
 		margin: 15px 3px;
-		color: #757575;
+		color: #f2f2f2;
 		background-color: #f2f2f2;
 		padding: 10px 15px;
 		font-weight: bold;
 		font-size: small;
+		
 	}
 
 
