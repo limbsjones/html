@@ -43,7 +43,7 @@
 	}
 	
 	.button {
-		
+		display: inline;
 		margin: 15px 3px;
 		color: #f2f2f2;
 		background-color: #f2f2f2;
