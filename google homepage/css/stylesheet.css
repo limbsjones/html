@@ -54,7 +54,7 @@
 	}
 
 
-
+/* class to stop webkit */
 	.reset {
 		-webkit-appearance: none;
 	}
