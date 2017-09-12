@@ -41,6 +41,10 @@
 		text-decoration: none;
 		color: #666666;
 	}
+
+	li a:hover {
+		text-decoration: underline;
+	}
 	
 	.button {
 		display: inline;
