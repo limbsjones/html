@@ -1,3 +1,4 @@
 {
-    "editor.fontSize": 12
+    "editor.fontSize": 12,
+    "git.ignoreLimitWarning": true
 } // Place your settings in this file to overwrite default and user settings.
